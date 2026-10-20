@@ -1,4 +1,4 @@
-# NanaBot, Zagreb SSS job alerts- "ScraperBot za državne i gradske poslove,drzavne firme, mjesto rada :Zagreb, stručna sprema :SSS. Samo ponuda javnih poslova po kriterijima!!!"
+# NanaBot, Zagreb SSS job alerts- "Scraper za državne i gradske poslove,drzavne firme, mjesto rada :Zagreb, stručna sprema :SSS. Samo ponuda javnih poslova po kriterijima!!!"
 
 Daily check for high-school (`SSS`) public jobs in Zagreb. The script reads the city boards, the state portal, Zagrebački holding, and the national employers listed below, emails new matches through [Resend](https://resend.com), and records what it already sent in `sent_jobs.json`.
 
